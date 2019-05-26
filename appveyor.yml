@@ -1,0 +1,14 @@
+image: Visual Studio 2015
+init:
+  - git config --global core.autocrlf input
+clone_folder: c:\projects\my-prj
+platform:
+  - x64
+configuration:
+  - Debug
+environment:
+  matrix:
+    - TOOLCHAIN: msvc15
+build_script:
+- cmake CMakeLists.txt
+- cmake --build .
