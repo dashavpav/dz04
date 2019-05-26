@@ -1,0 +1,3 @@
+/home/dashavpav/dashavpav/workspace/Homework/Lab03dz/lab03-1/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
+/home/dashavpav/dashavpav/workspace/Homework/Lab03dz/lab03-1/formatter_lib/_build/CMakeFiles/formatter.dir
+/home/dashavpav/dashavpav/workspace/Homework/Lab03dz/lab03-1/formatter_lib/_build/CMakeFiles/edit_cache.dir
